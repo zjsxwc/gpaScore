@@ -1,5 +1,6 @@
 <?php
-
+//gpa计算
+//$sixSessionScores 前六个学期每门课程的 学分 与 成绩 对
 $sixSessionScores = [
     [4, "94"],
     [1, "合格"],
